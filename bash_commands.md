@@ -12,3 +12,7 @@
 - git init
 - git remote add origin git@github.com:rizkipragustono/marketplace_lakehouse_project.git
 - git config --global core.autocrlf input
+
+- ssh-keygen -t ed25519 -C "your_email@example.com"
+- cat ~/.ssh/id_ed25519.pub | clip
+- ssh-add ~/.ssh/id_ed25519
