@@ -1,0 +1,8 @@
+click_id,campaign_id,user_id,session_id,timestamp,cost_per_click,source_url
+CLK_001,CMP_003,U001,SESS_1,2023-10-01 08:55:00,1.50,google.com
+CLK_002,CMP_002,U002,SESS_2,2023-10-02 09:50:00,2.10,facebook.com
+CLK_003,CMP_002,U002,SESS_3,2023-10-02 13:55:00,0.80,instagram.com
+CLK_004,CMP_001,U004,SESS_5,2023-10-04 14:50:00,0.05,email_newsletter
+CLK_005,CMP_004,U001,SESS_7,2023-10-06 08:55:00,1.20,twitter.com
+CLK_006,CMP_005,U006,SESS_8,2023-10-07 11:50:00,3.00,influencer_blog
+CLK_007,CMP_003,U009,SESS_10,2023-10-09 10:00:00,1.80,google.com

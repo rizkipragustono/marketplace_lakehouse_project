@@ -1,0 +1,11 @@
+user_id,first_name,last_name,email,country,created_at
+U001,Alice,Smith,alice@example.com,USA,2023-01-15 08:30:00
+U002,Bob,Johnson,bob@example.co.uk,UK,2023-02-20 10:15:00
+U003,Charlie,Brown,charlie@example.ca,Canada,2023-03-05 14:20:00
+U004,Diana,Prince,diana@example.com,USA,2023-03-10 09:00:00
+U005,Evan,Wright,evan@example.au,Australia,2023-04-01 11:45:00
+U006,Fiona,Gallagher,fiona@example.com,USA,2023-05-12 16:30:00
+U007,George,Martin,george@example.co.uk,UK,2023-06-20 08:15:00
+U008,Hannah,Abbott,hannah@example.com,USA,2023-07-04 12:00:00
+U009,Ian,Malcolm,ian@example.ca,Canada,2023-08-15 10:30:00
+U010,Julia,Roberts,julia@example.com,USA,2023-09-01 15:45:00

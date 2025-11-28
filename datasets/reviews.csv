@@ -1,0 +1,8 @@
+review_id,user_id,product_id,rating,comment,review_date
+R001,U001,P101,5,Amazing phone battery life is great.,2023-10-05
+R002,U002,P107,4,Comfortable but runs small.,2023-10-06
+R003,U004,P105,5,Loved the fabric!,2023-10-08
+R004,U005,P108,3,A bit dimmer than expected.,2023-10-09
+R005,U005,P110,5,Integrates perfectly with my NovaPhone.,2023-10-09
+R006,U006,P103,2,Bass is too heavy for my taste.,2023-10-10
+R007,U001,P110,5,Bought this after the phone very happy.,2023-10-12

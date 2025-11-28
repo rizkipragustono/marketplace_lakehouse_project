@@ -1,0 +1,11 @@
+product_id,product_name,brand_id,category_id,price,stock_level
+P101,NovaPhone X,B001,C002,999.00,50
+P102,NovaPad Pro,B001,C003,1200.00,30
+P103,BassMaster 3000,B002,C004,150.00,100
+P104,NoiseGuard Headphones,B002,C004,250.00,75
+P105,Chic Summer Dress,B003,C005,45.00,200
+P106,Leather Jacket,B003,C005,120.00,40
+P107,Runner Pro Shoes,B005,C006,85.00,150
+P108,Minimalist Desk Lamp,B004,C007,35.00,300
+P109,Ergo Office Chair,B004,C007,250.00,20
+P110,NovaWatch,B001,C001,299.00,80

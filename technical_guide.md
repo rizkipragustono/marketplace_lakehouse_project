@@ -1,4 +1,4 @@
-# Project Tech Stacks
+# Tech Stacks
 
 - docker
 - airflow
@@ -24,7 +24,7 @@
 - neo4j
 - duckdb
 
-# Project Goals & Use Cases
+# Goals & Use Cases
 
 - End-to-end Data Infrastructure
   - Provision of infrastructure & tools

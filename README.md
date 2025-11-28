@@ -2,7 +2,8 @@
 
 ### to-do:
 
-- find data for project if possible
 - deploy airflow
 - deploy mysql
 - deploy minio for blob storage
+
+- create project_technical_guide.md, follow or use same structure as project_analytic_guide.md, can use technical_guide.md as notes

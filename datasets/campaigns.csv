@@ -1,0 +1,6 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget,target_audience
+CMP_001,Summer_Blowout_Sale,Email,2023-10-01,2023-10-15,5000.00,Returning Customers
+CMP_002,Tech_Lovers_Promo,Social Media,2023-10-01,2023-12-31,12000.00,Tech Enthusiasts
+CMP_003,New_User_Welcome,Search Ads,2023-01-01,2023-12-31,25000.00,New Visitors
+CMP_004,Flash_Sale_Friday,Social Media,2023-10-06,2023-10-06,1000.00,General
+CMP_005,Influencer_Collab_X,Affiliate,2023-09-15,2023-10-15,8000.00,Fashion Segment
