@@ -83,6 +83,23 @@ services:
       start_period: 5s
     restart: always
 
+  mysql:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: marketplace
+      MYSQL_USER: market_user
+      MYSQL_PASSWORD: market_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-db-volume:/var/lib/mysql
+      - ./mysql:/docker-entrypoint-initdb.d # <--- Loads your init.sql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      timeout: 20s
+      retries: 10
+
   # redis:
   #   # Redis is limited to 7.2-bookworm due to licencing change
   #   # https://redis.io/blog/redis-adopts-dual-source-available-licensing/

@@ -1,5 +1,8 @@
 FROM apache/airflow:3.1.3
 
+# Switch to the airflow user (good practice)
+USER airflow
+
 # Set the AIRFLOW_HOME environment variable
 ENV AIRFLOW_HOME=/opt/airflow
 
