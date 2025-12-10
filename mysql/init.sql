@@ -30,7 +30,7 @@ CREATE TABLE IF NOT EXISTS products (
     FOREIGN KEY (category_id) REFERENCES categories(category_id)
 );
 
-CREATE TABLE IF NOT EXISTS behavior_logs (
+CREATE TABLE IF NOT EXISTS event_logs (
     event_id VARCHAR(50) PRIMARY KEY,
     user_id VARCHAR(50),
     product_id VARCHAR(50),

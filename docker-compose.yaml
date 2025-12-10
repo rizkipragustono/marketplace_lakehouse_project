@@ -90,6 +90,7 @@ services:
       MYSQL_DATABASE: marketplace
       MYSQL_USER: market_user
       MYSQL_PASSWORD: market_password
+    command: --local-infile=1 --secure-file-priv=""
     ports:
       - "3306:3306"
     volumes:
